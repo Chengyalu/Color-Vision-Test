@@ -1,0 +1,17 @@
+﻿participant_id,name,age,note,test_name,plate_id,correct_positions,response_positions,correct_count,plate_score
+2,2,,,HRR,Test1,circle | blank | blank | cross,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test2,cross | triangle | blank | blank,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test3,blank | blank | blank | circle,blank | blank | blank | blank,3,0.5
+2,2,,,HRR,Test4,blank | blank | blank | blank,blank | blank | blank | blank,4,2.0
+2,2,,,HRR,Test5,blank | cross | blank | triangle,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test6,blank | blank | circle | blank,blank | blank | blank | blank,3,0.5
+2,2,,,HRR,Test7,blank | blank | blank | blank,blank | blank | blank | blank,4,2.0
+2,2,,,HRR,Test8,circle | triangle | blank | blank,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test9,circle | blank | blank | triangle,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test10,cross | triangle | blank | blank,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test11,triangle | blank | circle | blank,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test12,circle | blank | blank | blank,blank | blank | blank | blank,3,0.5
+2,2,,,HRR,Test13,blank | blank | blank | cross,blank | blank | blank | blank,3,0.5
+2,2,,,HRR,Test14,blank | cross | blank | triangle,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test15,blank | blank | cross | circle,blank | blank | blank | blank,2,0.5
+2,2,,,HRR,Test16,circle | triangle | blank | blank,blank | blank | blank | blank,2,0.5

@@ -1,0 +1,66 @@
+[
+  {
+    "plate_id": "Test1",
+    "positions": ["circle", "blank", "blank", "cross"]
+  },
+  {
+    "plate_id": "Test2",
+    "positions": ["cross", "triangle", "blank", "blank"]
+  },
+  {
+    "plate_id": "Test3",
+    "positions": ["blank", "blank", "blank", "circle"]
+  },
+  {
+    "plate_id": "Test4",
+    "positions": ["blank", "blank", "blank", "blank"]
+  },
+  {
+    "plate_id": "Test5",
+    "positions": ["blank", "cross", "blank", "triangle"]
+  },
+  {
+    "plate_id": "Test6",
+    "positions": ["blank", "blank", "circle", "blank"]
+  },
+  {
+    "plate_id": "Test7",
+    "positions": ["blank", "blank", "blank", "blank"]
+  },
+  {
+    "plate_id": "Test8",
+    "positions": ["circle", "triangle", "blank", "blank"]
+  },
+  {
+    "plate_id": "Test9",
+    "positions": ["circle", "blank", "blank", "triangle"]
+  },
+  {
+    "plate_id": "Test10",
+    "positions": ["cross", "triangle", "blank", "blank"]
+  },
+  {
+    "plate_id": "Test11",
+    "positions": ["triangle", "blank", "circle", "blank"]
+  },
+  {
+    "plate_id": "Test12",
+    "positions": ["circle", "blank", "blank", "blank"]
+  },
+  {
+    "plate_id": "Test13",
+    "positions": ["blank", "blank", "blank", "cross"]
+  },
+  {
+    "plate_id": "Test14",
+    "positions": ["blank", "cross", "blank", "triangle"]
+  },
+  {
+    "plate_id": "Test15",
+    "positions": ["blank", "blank", "cross", "circle"]
+  },
+  {
+    "plate_id": "Test16",
+    "positions": ["circle", "triangle", "blank", "blank"]
+  }
+]
