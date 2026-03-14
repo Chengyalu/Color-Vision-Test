@@ -1,2 +1,0 @@
-﻿participant_id,name,age,note,test_name,response_order,expected_order,placed_count,major_radius,minor_radius,C-INDEX,TES,S-INDEX
-11,11,1,1,D15,0 13 7 12 10 5 6 2 11 8 9 3 1 15 14 4,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15,15,14.795513,12.004819,3.037573,19.05316,1.232465
